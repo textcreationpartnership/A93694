@@ -1,0 +1,562 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to one part of the Lord Protector's speech: or, A vindication of the fifth monarchy-men, in reference to an accusation of evil charged upon them in his speech to the Parliament in the Painted Chamber, the 4 of September, 1654. / Published by John Spittlehouse, to the end all men may see the strong endeavours that have been used to obstruct the kingly interest of Jehovah the Lord Christ in the world, by blowing the bellows of a persecution against those that desire he should reign over all nations of the earth, by his holy, just, and perfect laws and ordinances recorded in the sacred Scriptures to that very end and purpose.</title>
+            <author>Spittlehouse, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 72 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93694</idno>
+            <idno type="STC">Wing S5003</idno>
+            <idno type="STC">Thomason E813_19</idno>
+            <idno type="STC">ESTC R211046</idno>
+            <idno type="EEBO-CITATION">99869782</idno>
+            <idno type="PROQUEST">99869782</idno>
+            <idno type="VID">167957</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93694)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 167957)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 124:E813[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to one part of the Lord Protector's speech: or, A vindication of the fifth monarchy-men, in reference to an accusation of evil charged upon them in his speech to the Parliament in the Painted Chamber, the 4 of September, 1654. / Published by John Spittlehouse, to the end all men may see the strong endeavours that have been used to obstruct the kingly interest of Jehovah the Lord Christ in the world, by blowing the bellows of a persecution against those that desire he should reign over all nations of the earth, by his holy, just, and perfect laws and ordinances recorded in the sacred Scriptures to that very end and purpose.</title>
+                  <author>Spittlehouse, John.</author>
+               </titleStmt>
+               <extent>[4], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>for Livewel Chapman, at the Crown in Popes-head-alley.,</publisher>
+                  <pubPlace>Printed at London, :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In this edition, line 21 on title page ends: them.</note>
+                  <note>Annotation on Thomason copy: "8ber [i.e. October]: 18".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Speeches, addresses, etc., English --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:167957:1" rendition="simple:additions"/>
+            <p>AN ANSWER To one part of The Lord Protector's SPEECH: OR, A VINDICATION OF THE Fifth Monarchy-men, In reference to an Accuſation of evil charged upon them in his Speech to the Parliament in the Painted Chamber, the 4 of <hi>September,</hi> 1654.</p>
+            <p>Publiſhed by <hi>John Spittlehouſe,</hi> To the end all men may ſee the ſtrong endeavours that have been uſed, to obſtruct the Kingly intereſt of <hi>Jehovah</hi> the Lord Chriſt in the world, by blowing the bellows of a Perſecution againſt thoſe that deſire he ſhould <hi>reign</hi> over all the Nations of the earth, by his <hi>holy, juſt, and perfect Laws and Ordinances</hi> re<g ref="char:EOLhyphen"/>corded in the ſacred Scriptures to that very end and purpoſe.</p>
+            <q>
+               <bibl>Luke 19. 27.</bibl> 
+               <hi>But thoſe mine enemies that would not that I ſhould reign over them, bring them hither, and ſlay them before me.</hi>
+            </q>
+            <q>
+               <bibl>Dan. 6. 5.</bibl> 
+               <hi>Then ſaid theſe men, We ſhall not finde any occaſion againſt this Da<g ref="char:EOLhyphen"/>niel, except we finde it againſt him concerning the law of his God.</hi>
+            </q>
+            <p>Printed at <hi>London,</hi> for <hi>Livewel Chapman,</hi> at the Crown in Popes-head-alley. 1654.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:167957:2"/>
+            <pb facs="tcp:167957:2"/>
+            <head>The Epistle to the Reader.</head>
+            <p>
+               <seg rend="decorInit">I</seg>Naſmuch as Satan, knowing his time is but ſhort, <hi>Rev.</hi> 12. 12. doth now more then ever <hi>tranſ<g ref="char:EOLhyphen"/>form</hi> himſelf into an Angel of light, to the end he may the more cunningly and ſmoothly de<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e the <hi>very elect,</hi> if it were poſſible, <hi>Matth.</hi> 24. 24. or other<g ref="char:EOLhyphen"/>wiſe ſtir up his Inſtruments to perſecute the <hi>Man<g ref="char:EOLhyphen"/>childe,</hi> (in his Members) <hi>who is now about to rule all nations with a rod of iron,</hi> Rev. 12. 5. It therefore neerly concerneth the people of God to ſtand upon their guard, by contending earneſtly for the faith, in hearing teſtimony to thoſe Prophecies that tend to the exaltation of the Lord Jeſus <hi>unto his Kingly office and intereſt in the world in theſe laſt days.</hi> Upon which very account, I have, in the ſtrength of JE<g ref="char:EOLhyphen"/>HOVAH, given this following Anſwer to his Charge of <hi>Evil</hi> againſt the <hi>Fifth Monarchy-men.</hi> Knowing, that the righteous, in ſuch caſes, ought
+<pb facs="tcp:167957:3"/> to be as bold as lions, and not to fear ſuch perſons whoſe power is permiſſive, <hi>Ioh.</hi> 19. 10, 11. and limit<g ref="char:EOLhyphen"/>ed, <hi>Matth.</hi> 10. 28. as is the power of Satan, <hi>Iob</hi> 1. 12. and 2. 6. As alſo, from the encouragement of the Spirit of God communicated unto us by the A<g ref="char:EOLhyphen"/>poſtle <hi>Paul, 1 Cor.</hi> 1. 27, 28, 29. where he ſaith, <hi>God hath choſen the FOOLISH things of this world, to con<g ref="char:EOLhyphen"/>found the WISE; and God hath choſen the WEAK things of this world to confound the MIGHTY; and the BASE things of this world, and things which are DESPISED, hath God CHOSEN; yea, things which ARE NOT, to bring to nought things WHICH ARE; that no fleſh might glory in his preſence.</hi> Even ſo. <hi>Amen.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:167957:3"/>
+            <head>An Anſwer to part of the L. Protectors Speech.</head>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Speech. </seg>
+               </label> 
+               <hi>
+                  <seg rend="decorInit">W</seg>E may reckon among thoſe ſpiritual evils, an EVIL that hath more refinedneſs in it, more co<g ref="char:EOLhyphen"/>lour for it, and hath deceived more people of in<g ref="char:EOLhyphen"/>tegrity then the reſt have done. For few have been catched with the former miſtakes, but ſuch as have apoſtatized from their holy profeſſion; ſuch as being corrupt in their conſciences, have been forſaken by God, and left to ſuch noy ſome Opinions. But, I ſay, there are <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>thers more refined; many honeſt people, whoſe hearts are ſincere, many of them belonging to God: and this is the MISTAKEN NOTION of the</hi> FIFTH MONARCHY.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reſp. </seg>
+               </label> Reader, inaſmuch as the FIFTH MONARCHY-MEN are here involved among other perſons and opinions, as the <hi>Levellers,</hi> whoſe principle (he ſaith) is, To make the <hi>Tenant</hi> of as liberal a fortune as the <hi>Landlord;</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> conceive it meet to ſpeak ſomething thereunto by way of P<gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> And albeit we abominate any wicked action under the no<gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of Leveling, <hi>&amp;c.</hi> yet we could tell the Accuſer, that there is a Leveling principle of an higher nature, which it ſeems he had forgot, <hi>viz.</hi> ſuch a leveling as hath not onely in the <hi>notion,</hi> but even in <hi>action</hi> reduced the <hi>Tenant</hi> into the con<g ref="char:EOLhyphen"/>dition of the <hi>Landlord,</hi> and the <hi>Landlord</hi> into the condition of the <hi>Tenant;</hi> the <hi>Servant</hi> into the condition of the <hi>Maſter,</hi> and the <hi>Maſter</hi> into the condition of the <hi>Servant:</hi> which will clearly ap<g ref="char:EOLhyphen"/>pear, by comparing the <hi>ranks, eſtates,</hi> and <hi>conditions</hi> of divers at <hi>the preſent,</hi> with what they were <hi>before the Wars;</hi> and that not in <hi>poſſe,</hi> but in <hi>eſſe, viſible to all men.</hi>
+            </p>
+            <p>2. As to his charge of <hi>diſreſpect</hi> to the Authority of the Nation, as to the <hi>Magistrate,</hi> to the <hi>ranks and orders of men,</hi> whereby <hi>England</hi> hath been known for hundreds of yeers; as, <hi>A Noble<g ref="char:EOLhyphen"/>man, a Gentleman, a Yeoman,</hi> (that being a good intereſt of the Nation, and a great one:) ſurely the old Proverb is here verified, <hi>viz. The Prieſt hath forgot that ever he was Clerk:</hi> for, was not the <hi>lineal race of Kingſhip</hi> as good and great an intereſt as any of the
+<pb n="2" facs="tcp:167957:4"/> other? yea, <hi>far greater:</hi> and yet who hath been more inſtrumen<g ref="char:EOLhyphen"/>tal to raze out the <hi>Kingly line</hi> of the <hi>Stewarts</hi> in this Nation, <hi>root and branch<g ref="char:punc">▪</g>
+               </hi> then himſelf? as alſo, to plant himſelf in their ſtead. But this muſt not be counted any <hi>diſreſpect</hi> to Magiſtracie; no, the <hi>poor Levelers,</hi> that have brought a <hi>Noble to nine-pence,</hi> in ſtead of multiplying Nine-pence <hi>to a Crown,</hi> (as ſome have done) they muſt now bear the blame for all ſuch-like actions. Albeit there are lyers, if he himſelf have not ſaid, <hi>that the nation would never be at quiet whilſt there was a name of a Lord in the land.</hi>
+            </p>
+            <p>3. Whereas he chargeth others with a ſpirit <hi>viſibly acting</hi> thoſe things foretold by <hi>Peter, Jude,</hi> and the Apoſtle <hi>Paul</hi> to <hi>Timothy:</hi> ſure I am, that multitudes of godly people in this Nation are verily perſwaded that he chargeth others with many things which might as properly be fixed to—: And therefore if ſuch as <hi>put the day of Christ far from them,</hi> or ſuch <hi>as having eſcaped the pollutions of the world through the knowledge of the Lord Jeſus, and are now again entangled in them, and overcome;</hi> or ſuch as are <hi>lovers of themſelves,</hi> or <hi>covetous<g ref="char:punc">▪</g>
+               </hi> or <hi>proud,</hi> or <hi>boaſters,</hi> or <hi>blaſphemers,</hi> or <hi>covenant-breakers,</hi> or <hi>falſe accuſers,</hi> or <hi>fierce,</hi> or <hi>deſpiſers of thoſe that are good,</hi> or <hi>traytors,</hi> or <hi>heady,</hi> or <hi>high-minded,</hi> or <hi>lo<g ref="char:EOLhyphen"/>vers of pleaſures more then lovers of God,</hi> or <hi>ſpeakers of lyes in hypocriſie,</hi> or <hi>turners with the d<gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> vomit,</hi> or <hi>with the ſow that was waſhed to the wall<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wing<gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the mire</hi> be the perſons <hi>he intendeth his charge againſt,</hi> we ſhall deſire ſome would <hi>begin to look at home;</hi> for the Apoſtle <hi>Paul</hi> doth judge perſons worthy of reproof, who think themſelves to be <hi>guides of the blinde,</hi> and <hi>a light to them that ſit in darkneſs, an inſtructer of the fooliſh, a teacher of babes,</hi> &amp;c. if ſuch ſhall teach or reprove <hi>others,</hi> and withal teach not <hi>themſelves;</hi> if they ſhall preach, A man ſhould <hi>not ſteal,</hi> and yet they to <hi>ſteal themſelves,</hi> &amp;c. as the Saying is, <hi>Thou mayſt not, but I may.</hi>
+            </p>
+            <p>4. Whereas he chargeth other perſons with <hi>laying the ax to the root of the Miniſtery, as Antichriſtian and Babyloniſh;</hi> I deſire to know how much ſhort he himſelf would have proved of ſuch a Principle, had they not learned to cry up <hi>Oliver</hi> in ſtead of <hi>Charles.</hi> The time was <note n="*" place="margin">Vide <hi>p. 23 of his ſpeech</hi> July 4. 1653.</note>, when he ſaid, <hi>It was not in his heart to ſpeak for a Miniſtery</hi> 
+               <note n="†" place="margin">And what are the pre<g ref="char:EOLhyphen"/>ſent Clergie of this na<g ref="char:EOLhyphen"/>tion other?</note> 
+               <hi>deriving it ſelf through the Papacie, and pretend<g ref="char:EOLhyphen"/>ing to that which is ſo much inſiſted upon as ſucceſſion.</hi>
+            </p>
+            <p>It was alſo thought, at that time, a fit Querie by him to the old
+<pb n="3" facs="tcp:167957:4"/> Parliament, <hi>Whether the next Parliament they intended, were</hi> 
+               <note place="margin">Page 15. of that Speech.</note> 
+               <hi>not like to conſist of all Presbyters?</hi> or <hi>whether thoſe qualifica<g ref="char:EOLhyphen"/>tions</hi> (then making by them) <hi>would hinder them or</hi> 
+               <note n="*" place="margin">Note Preſ<g ref="char:EOLhyphen"/>byters and neuters joy<g ref="char:EOLhyphen"/>ned toge<g ref="char:EOLhyphen"/>ther.</note> 
+               <hi>Neuters?</hi> &amp;c. <hi>they having deſerted this cauſe and intereſt upon the kings account, and upon that cloſure with them and the neighbour-na<g ref="char:EOLhyphen"/>tion.</hi> And thereupon profeſſed, that <hi>they had as good have delive<g ref="char:EOLhyphen"/>red up their Cauſe into the hands of any, as into the hands of intereſted and</hi> 
+               <note n="*" place="margin">It ſeems they are not ſo now.</note> 
+               <hi>byaſſed men: for it is one thing to live friendly, and brotherly to bear with, and love a perſon of another judge<g ref="char:EOLhyphen"/>ment in Religion; another thing to have any ſo far ſet in the ſad<g ref="char:EOLhyphen"/>dle upon that account, as that it ſhould be in them to have all the reſt of their brethren at</hi> 
+               <note n="*" place="margin">I think they have little le<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> now.</note> 
+               <hi>mercy.</hi> But this by the way.</p>
+            <p>I ſhall now apply my ſelf wholly to the peculiar Charge againſt the <hi>Fifth Monarchy-men.</hi> In which I ſhall take notice, 1. <hi>What they are not. 2. What they are. 3. Their notion.</hi>
+            </p>
+            <p n="1">1. He ſaith, <hi>They are not</hi> ſuch <hi>as have been catched with the former mistakes, viz.</hi> thoſe before mentioned by him in his Speech.</p>
+            <p n="2">2. As to <hi>what they are,</hi> he alſo ſaith, 1. that they are <hi>people of integrity.</hi> 2. Such as <hi>have not apostatized from their holy profeſ<g ref="char:EOLhyphen"/>ſion.</hi> 3. Not ſuch as have been <hi>corrupt in their conſciences,</hi> having been forſaken by God, <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to noyſome Opinions. 4. <hi>Honeſt people.</hi> 5. Such whoſe <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>e <hi>ſincere.</hi> 6. Such as <hi>belong unto God.</hi> And is there any <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>eſe particulars, but what he himſelf might very well entertain, without any diſparagement to his Great<g ref="char:EOLhyphen"/>neſs? Again, being ſuch perſons, <hi>by his own confeſſion,</hi> they may the more juſtly <hi>reprove him,</hi> or any other that walk contrary here<g ref="char:EOLhyphen"/>unto, and that according to the Apoſtles fore-mentioned inſtance.</p>
+            <p n="3">3. Whereas he termeth their principle the MISTAKEN NO<g ref="char:EOLhyphen"/>TION <hi>of the</hi> FIFTH MONARCHY; I ſhall ſpeak thereunto, when I come to his Reaſons for ſo ſaying.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Speech. </seg>
+               </label> 
+               <hi>A thing pretending to more ſpirituality then any thing elſe: a notion I hope we all HONOR, WAIT, and HOPE for. That Jeſus Chriſt will have a time to ſet up his reign in our hearts, by ſubduing thoſe corruptions and lusts, and evils that are there, which reign now more in the world, then I hope in due time they ſhall do. And when more fulneſs of the Spirit is poured forth, to ſubdue iniquity, and bring in everlaſting righteouſneſs, then will the approach of that glo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y be.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reſp. </seg>
+               </label> Reader, in this expreſſion thou mayſt obſerve theſe particulars.</p>
+            <p n="1">1. That our <hi>notion</hi> pretends to <hi>more ſpirituality then any other.</hi> And in this particular, we think he is <hi>not</hi> very much miſtaken; wit<g ref="char:EOLhyphen"/>neſs our <hi>Declaration,</hi> (which <hi>Sa<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. Richardſon,</hi> one of the <hi>Elima<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>'s <note place="margin">Act. 13. 8.</note>
+               <pb n="4" facs="tcp:167957:5"/> of this Commonwealth, hath ſcandalized as a <hi>Libel,</hi> notwithſtan<g ref="char:EOLhyphen"/>ding thoſe mens names prefixed to it, with thouſands that approve thereof) where we <hi>demonſtrate to all the world</hi> our deſires <hi>that God the Father of our Lord Jeſus Chriſt would caſt down all thoſe earthly, carnal, cruel, and political combinations of men of all ſorts that would not have him to reign over us but ſet up them<g ref="char:EOLhyphen"/>ſelves and their corrupt intereſts in the room of that ſcepter of righteouſneſs which he hath given into the hands of his dear Son:</hi> and that he would give us <hi>Magiſtrates as at the first,</hi> and <hi>Rulers as at the beginning, viz.</hi> Miniſters of the <hi>
+                  <g ref="char:V">Ʋ</g>nction</hi> and Ma<g ref="char:EOLhyphen"/>giſtrates of the <hi>
+                  <g ref="char:V">Ʋ</g>nction;</hi> ſuch as <hi>fear God, and hate covetouſneſs.</hi> And we hope there is <hi>no evil</hi> in all or any of theſe requeſts.</p>
+            <p n="2">2. He ſaith it is ſuch a <hi>notion</hi> as he himſelf both <hi>honoreth, waiteth,</hi> and <hi>hopeth for, (viz.</hi> the <hi>ſubduing of corruptions, and luſts, and iniquity</hi> and to <hi>bring in everlaſting righteouſneſs.</hi> And what is it more that we deſire? If therefore there be <hi>evil</hi> in ſuch deſires, he hath hereby declared himſelf <hi>as guilty thereof</hi> as we.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Speech. </seg>
+               </label> 
+               <hi>The carnal diviſions and cont<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntions among Chriſtians ſo common, are not the ſymptomes of that kingdom.</hi>
+            </p>
+            <p n="1">
+               <label type="milestone">
+                  <seg type="milestoneunit">Reſp. </seg>
+               </label> 1. If carnal diviſions be not <hi>ſignes</hi> of the approach of that king<g ref="char:EOLhyphen"/>dom or Monarchy of our Lord Jeſus upon earth, then why was it that we levied war againſt our brethre<gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Scotland,</hi> (ſo called) and that upon the account of the <hi>kingly <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of Jeſus Chriſt upon earth,</hi> as in the Declaration of the Army to <hi>Scotland,</hi> p. 36<g ref="char:punc">▪</g> 37, 38, 39. where they affirm <hi>they were ſtirred up by the Lord to aſ<g ref="char:EOLhyphen"/>ſiſt the Parliament againſt the King for this end, to bring about the deſtruction of Antichriſt, and the deliverance of his</hi> 
+               <note n="*" place="margin">What were the Scots then in the Armies eſteem?</note> 
+               <hi>true Church and People. And that upon this ſimple account it was they engaged in the wars of the three nations againſt all op<g ref="char:EOLhyphen"/>poſers of this work of Jeſus Chriſt; having theſe things ſingly in their eye,</hi> viz. <hi>the deſtruction of Antichriſt, and the advance<g ref="char:EOLhyphen"/>ment of the kingdom of Jeſus Chriſt, and deliverance and refor<g ref="char:EOLhyphen"/>mation of his Church, and the eſtabliſhment of</hi> CHRISTS OR<g ref="char:EOLhyphen"/>DINANCES ACCORDING TO HIS WORD <hi>&amp;c.</hi> All which they declare, with the loſs of many precious Saints, p. 38. as alſo, <hi>that they engaged againſt the late king and HIS MONARCHY, as</hi> 
+               <note place="margin">As well a<g ref="char:EOLhyphen"/>gainſt his Monarchy <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> himſelf.</note> 
+               <hi>one of the ten horns of the Beaſt, guilty of the blood of the Saints;</hi> which act they ſay they <hi>are confident God will own againſt all kingdoms and nations that will oppoſe them, and that will not
+<pb n="5" facs="tcp:167957:5"/> ſuffer Jeſus Chriſt to be king:</hi> as alſo, <hi>that the Lord had made them inſtrumental to vex all in his ſore diſpleaſure that take counſel againſt Chriſt, whom the Lord hath anointed and de<g ref="char:EOLhyphen"/>creed king:</hi> and that <hi>they were not meerly the ſervants of men:</hi> and that <hi>they had not onely PROCLAIMED Jeſus Chriſt king of Saints to be O<g ref="char:V">Ʋ</g>R KING, but that they would ſub<g ref="char:EOLhyphen"/>mit to him (alone) upon his OWN TERMS, and admit him (onely) to the exerciſe of his ROYAL A<g ref="char:V">Ʋ</g>THORITY.</hi> As alſo, in p. 40. where they <hi>beſeech the Scots to</hi> LOOK A<g ref="char:EOLhyphen"/>BOUT THEM, <hi>for that our Lord Jeſus was coming.</hi>
+            </p>
+            <p n="2">2. If this kingdom of Jeſus Chriſt they ſo <hi>cried up</hi> and <hi>pro<g ref="char:EOLhyphen"/>claimed,</hi> did onely extend to a <hi>ſpiritual notion of Government WITHIN <g ref="char:V">Ʋ</g>S;</hi> what neceſſity was there for him and the Army to have been ſo inſtrumental as they have, to pluck up <hi>Kingly Go<g ref="char:EOLhyphen"/>vernment</hi> by the <hi>roots</hi> in this Commonwealth, as alſo againſt all <hi>arbitrary</hi> or <hi>abſolute power in any ſingle perſon whatſoever, as tyrannical,</hi> and vaſſalizing the Saints and people of God in this Commonwealth: and that they would not <hi>permit the ſame</hi> in any they could <hi>moſt confide</hi> in, or could have <hi>moſt perſonal aſ<g ref="char:EOLhyphen"/>ſurance of?</hi> Could not Jeſus Chriſt, I ſay, have reigned <hi>WITH<g ref="char:EOLhyphen"/>IN <g ref="char:V">Ʋ</g>S,</hi> in the <hi>hearts</hi> of his people in this Commonwealth, if the late <hi>King</hi> had yet kept his <hi>Crown</hi> and <hi>Head</hi> upon his <hi>ſhoulders?</hi> Is it poſſible that any mortal man ſhould <hi>hinder ſuch a reign?</hi> And if not, why was <hi>Caeſar</hi> deſtroyed <hi>without,</hi> to let in Chriſt <hi>within?</hi> Could his perſecuting the people of God have done it? Surely <hi>no:</hi> experience hath taught, that the <hi>blood of the Mar<g ref="char:EOLhyphen"/>tyrs</hi> hath been the <hi>ſeed or increaſe of the Church.</hi> And doubt<g ref="char:EOLhyphen"/>leſs the <hi>Scots</hi> knew as well as himſelf and the Army. That there was <hi>no king but Jeſus,</hi> as to <hi>A SPIRIT<g ref="char:V">Ʋ</g>AL ACCO<g ref="char:V">Ʋ</g>NT</hi> or <hi>GOVERNMENT WITHIN <g ref="char:V">Ʋ</g>S;</hi> and therefore doubtleſs did not conteſt againſt <hi>ſuch a Government.</hi> Nay, is it not clear from their fore-mentioned exceptions, that their Quarrel (or ra<g ref="char:EOLhyphen"/>ther, the Quarrel of the Lord Jeſus, as they at leaſt pretended) was for the ſubverſion of <hi>whatſoever</hi> was Antichriſtian in point of <hi>External Ordinances,</hi> and for the eſtabliſhment of the Ordi<g ref="char:EOLhyphen"/>nances of Jeſus Chriſt ACCORDING TO HIS WORD?</p>
+            <p n="3">3. Had not himſelf and the Army been really convinced that MONARCHY IT SELF (as it hath reference to <hi>Dan.</hi> 2. 34<g ref="char:punc">▪</g> 35 44. and 7. 18, 22, 26, 27.) was <hi>at its period,</hi> what ground
+<pb n="6" facs="tcp:167957:6"/> had they to fight againſt MONARCHY IT SELF, or to <hi>re<g ref="char:EOLhyphen"/>venge the BLOOD OF THE SAINTS upon the KINGS OF THE EARTH,</hi> either from <hi>Scripture,</hi> or <hi>primitive pra<g ref="char:EOLhyphen"/>ctio<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of Saints?</hi> whoſe uſual cuſtom was, in ſuch caſes, <hi>aut fugere, aut pati,</hi> to flee or ſuffer; and not to oppoſe <hi>wicked Princes</hi> upon ſuch an account; knowing that the Lord had per<g ref="char:EOLhyphen"/>mitted them for a time to exerciſe ſuch wickedneſs, <hi>Revel.</hi> 17. 21, 13. But contrariwiſe, that they <hi>were convinced</hi> of the truth thereof, (or at leaſt, plaid the part of the greateſt hypocrites that ever were upon the face of the earth) witneſſing their ſtiling them<g ref="char:EOLhyphen"/>ſelves <hi>The Army of the Lamb,</hi> as alſo their aforeſaid expreſſions: witneſs alſo their notorious Appeal at <hi>Dunbar,</hi> where they owned <hi>no king but Jeſus,</hi> and the Scots <hi>a Perſonal intereſt of man:</hi> as alſo, the glorious deciſion of that controverſie on the <hi>No king but Jeſus his ſide,</hi> and that to the admiration of all men: wit<g ref="char:EOLhyphen"/>neſs alſo his own expreſſion in his Speech made to the (ſhort-liv'd) Parliament, <hi>July</hi> 4. 1653. p. 24, 25. where he ſaith, <q>We know who they are that ſhall war with the Lamb againſt his enemies; they ſhall be a people <hi>called choſen,</hi> and <hi>faithful,</hi> and hath in the <hi>Military way,</hi> &amp;c. I believe you know it: he hath acted with them, and for them, <hi>&amp;c.</hi> Indeed I think there is ſomething <hi>at the door</hi> 
+                  <note n="*" place="margin">I wiſh we could once ſee it with<g ref="char:EOLhyphen"/>in-door.</note>, we are <hi>at the threſhold:</hi> And therefore it becomes us to lift up our heads, and to encourage our ſelves in the Lord, <hi>&amp;c.</hi> And we have ſome of us thought it our duty to endeavour <hi>this way,</hi> not vainly looking on that prophecie of <hi>Daniel,</hi> Chap. 1. 44. and that Scripture may be fulfilled <hi>now to us.</hi>
+               </q>
+            </p>
+            <p n="4">4. But to ſtoop a little to his ſenſe of the <hi>miſtaken notion,</hi> as he is now pleaſed to term it, (by way of deriſion, now he hath com<g ref="char:EOLhyphen"/>paſſed his own ends by it.) Did this <hi>Notion</hi> lead him forth to deſtroy kings for their luſts and corruptions, and the ſame luſts and corruptions yet <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eigning in the world, (and particularly in—?) Certainly we are little bettered by the expence of ſo much <hi>blood</hi> and <hi>treaſure</hi> that hath been ſhed and ſpent ſince the Wars began. The Lord be merciful to ſuch perſons, and give them grace to re<g ref="char:EOLhyphen"/>pent, if it be his will; or otherwiſe as ſhall moſt conduce for his glory, and the good of his people.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Speech. </seg>
+               </label> 
+               <hi>But for men to intitle themſelves, upon this principle, that they are the onely men to rule Kingdoms, govern Nations, and
+<pb n="7" facs="tcp:167957:6"/> give Laws to people, to determine of property and liberty, and every thing elſe, upon ſuch a pretence as this; truely they had need to give clear manifeſtations of Gods preſence with them, before wiſe men will receive or ſubmit to their concluſions.</hi>
+            </p>
+            <p n="1">
+               <label type="milestone">
+                  <seg type="milestoneunit">Reſp. </seg>
+               </label> 1. The time was, that ſome, <hi>&amp;c.</hi> were as little thought upon to be ſo exerciſed as we. Beſides, this charge againſt us, is at the very beſt <hi>erroneous,</hi> (we might ſay—) For our principle doth not lead us forth to intitle our ſelves to ſuch Offices; it being the Word of God that <hi>inrights us thèreunto;</hi> a donation from <hi>God himſelf,</hi> and not from <hi>a few favourites<g ref="char:punc">▪</g>
+               </hi> for carnal ends and in<g ref="char:EOLhyphen"/>tereſts. And that we are ſo, <hi>vide</hi> one of his Doctors opinions, <hi>viz.</hi> Mr. <hi>Tho. Goodwin,</hi> in his Sermon preached in <hi>Crooked-la<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e London,</hi> upon <hi>Rev.</hi> 5. 9, 10. touching the very ſubject we conteſt for, <hi>viz. The Fifth Monarchy:</hi> where (in p. 4.) treating upon verſ. 10. <hi>Thou haſt made us unto our God kings and priests, and we ſhall REIGN ON EARTH;</hi> he ſaith, <q>That the <hi>loweſt interpretation</hi> that can be given (of theſe words) muſt be this: <hi>We ſhall have a hand IN G<g ref="char:V">Ʋ</g>IDING THE AF<g ref="char:EOLhyphen"/>FAIRS OF THE EARTH.</hi> Again, p. 15. I ſay, There is <hi>an eminent kingdom for the Saints to have on the EARTH.</hi> Thus much, I ſay, me thinks ſhould be evident to <hi>every mans underſtanding.</hi> P. 18. So that the plain Do<g ref="char:EOLhyphen"/>ctrine or Obſervation is but this: That there is <hi>in the end</hi> a kingdom to come here for the Saints: That after all the king<g ref="char:EOLhyphen"/>doms of the world <hi>have had their time</hi> and <hi>their date,</hi> by which the Saints have been all along oppreſt and injured, there is, <hi>even ON EARTH,</hi> a kingdom to be given unto them; When all Nations ſhall be converted unto God, and the Saints in them to be the <hi>prevailing party in the world.</hi> The Scri<g ref="char:EOLhyphen"/>pture ſeems to run much this way. P. 26. And there is <hi>all the reaſon in the world for it,</hi> beſides what I have mentioned out of the Scripture: For, in that the Saints have been <hi>oppreſt</hi> here in <hi>this world,</hi> it is a righteous thing with God to give <hi>that gene<g ref="char:EOLhyphen"/>ration rest</hi> and that they ſhould have their turn <hi>after all king<g ref="char:EOLhyphen"/>doms are diſſolved:</hi> That what <hi>Adam</hi> loſt, ſhould be reſto<g ref="char:EOLhyphen"/>red to them again, <hi>&amp;c.</hi> And that promiſe, if you look in <hi>Iſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> 65. I am ſure you will finde to be <hi>made to MEN ON EARTH;</hi> for he ſaith plainly, They ſhall <hi>build HO<g ref="char:V">Ʋ</g>SES,
+<pb n="8" facs="tcp:167957:7"/> and inhabit them;</hi> and they ſhall <hi>plant vineyards<g ref="char:punc">▪</g>
+                  </hi> and <hi>eat the fruit of them</hi> &amp;c. And this as an anſwer to all the pray<g ref="char:EOLhyphen"/>ers that have been put up; as that, <hi>Thy will be done on earth, as it is in heaven.</hi>
+               </q> The whole Sermon will far more abun<g ref="char:EOLhyphen"/>dantly ſatisfie <hi>in this particular,</hi> if our adverſaries pleaſe to peruſe it.</p>
+            <p>And therefore by the ſame rule that they <hi>pretended</hi> to be drawn forth to fight for this <hi>MONARCHY OF JES<g ref="char:V">Ʋ</g>S CHRIST,</hi> we are drawn forth to promote thoſe <hi>LAWS and ORDI<g ref="char:EOLhyphen"/>NANCES</hi> which are <hi>peculiar thereunto,</hi> and which they <hi>fought for,</hi> and from which they have now ſhamefully <hi>apoſta<g ref="char:EOLhyphen"/>tized;</hi> putting that day now afar off, (as in 2 <hi>Pet.</hi> 3. 3, 4 5 &amp;c.) which they then declared was even at the door, as aforeſaid; as alſo, by ſlighting and contemning thoſe <hi>holy, just, and perfect Laws,</hi> which they then acknowledged to be <hi>from heaven,</hi> as alſo <hi>a rule for all Rulers;</hi> yea ſuch, <hi>as that whoſo was not EVER <g ref="char:V">Ʋ</g>NDER THEM, owned not his OBEDIENCE to God.</hi> Vide <hi>Abridgm. Remonſtr. Albans,</hi> p. 6, 8. Beſides, we have as plain texts of Scripture for the one, as they could have for the other: yea, for <hi>Ruling</hi> and <hi>Governing:</hi> Vide <hi>Dan. 7. 22, 26, 26. Rom. 8. 16, 17. 1 Cor.</hi> 6. 2.</p>
+            <p n="2">2. Whereas he taxeth us with (an ambitious fancie of) <hi>gi<g ref="char:EOLhyphen"/>ving Laws to the world,</hi> we conceive it no better then the former. For the Laws are <hi>recorded already</hi> by the <hi>alone law-maker and giver, (Jam.</hi> 4. 12.) that we deſire may be put in practice, <hi>viz.</hi> the <hi>Laws, Statutes, Judgements,</hi> and <hi>Ordinances,</hi> which our Lord and Maſter Jeſus Chriſt hath <hi>conſtituted</hi> and <hi>appointed to govern his ſubjects by;</hi> and that as well in relation to the <hi>out<g ref="char:EOLhyphen"/>ward</hi> as <hi>inward man.</hi> Which if <hi>he HIMSELF will do,</hi> (as we once hoped he would have done) we ſhall have exceeding great cauſe to bleſs God for it, and ſhall acquieſce in our preſent conditions: it being <hi>not for our own,</hi> but the intereſt of Jehovah the Lord Chriſt, whom we alone deſire may be exalted: but <hi>o<g ref="char:EOLhyphen"/>therwiſe</hi> we ſhall yet ſay, and teſtifie, that it is <hi>Babyloniſh,</hi> and <hi>Antichriſtian,</hi> for any Magiſtrate, and eſpecially for ſuch of them as <hi>profeſs Chriſtianity,</hi> to make or eſtabliſh any other Laws <hi>for the Government of Chriſtians,</hi> then thoſe that are contained in the ſacred Scriptures of the Old and New Teſtament, whether for State or Church; they being <hi>there recorded</hi> for no other end or purpoſe that we know of.</p>
+            <pb n="9" facs="tcp:167957:7"/>
+            <p>Beſides, what greater diſhonor can Magiſtrates do to Jehovah the Lord Chriſt (whom they at leaſt pretend to be their Crea<g ref="char:EOLhyphen"/>tor, God, King, Lord, Saviour, and Lawgiver) than to ſleight and reject his <hi>holy, juſt, and perfect Laws, &amp;c.</hi> And to erect in<g ref="char:EOLhyphen"/>ſtead thereof (the Statutes of <hi>Omri)</hi> the L<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ws of <hi>Heathens, An<g ref="char:EOLhyphen"/>tichriſtians,</hi> or their <hi>own</hi> vain and fooliſh Imaginations, Tradi<g ref="char:EOLhyphen"/>tions, and inventions? The Lord ſet it home upon his heart ſeriouſly to conſider hereof; for ſeeing the Lord would not permit his <hi>then only peculiar people</hi> (who doubtleſſe had as <hi>much</hi> REASON <hi>or</hi> LIGHT OF NATURE as we have) neither to fancie to themſelves Laws either in things <hi>Civil</hi> or <hi>ſpiritual,</hi> or to extract themſelves Laws from any other people then ex<g ref="char:EOLhyphen"/>tant; Why ſhould he, or any other perſons whatſoever dare to attempt the making of Laws, whether Civil or Spiritual? Beſides, in ſo doing, is it not as much as to ſay in plain termes, that our <hi>Predeceſſors,</hi> and <hi>they</hi> are <hi>wiſer than God?</hi> And what is that <hi>leſſe then Blaſphemy?</hi>
+            </p>
+            <p>Again, what preſident have we in holy Writ, that any of the people of God publiſhed any command of God <hi>in their own name?</hi> doth not <hi>Moſes</hi> preſent the <hi>Law-maker himſelf</hi> to give forth his own Law? <hi>Exod. 20. 1. Jehovah ſpake theſe words ſay<g ref="char:EOLhyphen"/>ing, &amp;c.</hi> And was it not the uſual expreſſion of the Prophets to ſay, <hi>Thus ſaith the Lord?</hi> Yea doth not Jeſus Chriſt himſelf ſay, <hi>I ſpeak not of my ſelf?</hi> As alſo the Apoſtle <hi>Paul? 1 Cor. 11. 23. That which I received of the Lord deliver I unto you.</hi> And doth he not will Chriſtians to be followers of him in ſuch actions?</p>
+            <p>Again, hath not he himſelf ſworn, <hi>That the Chriſtian Religion contained in the Scriptures, ſhall be held forth, and recommended, as the publick profeſſion of theſe Nations,</hi> vide <hi>Government,</hi> Art. 25. And what is that R<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ligion other than to be <hi>conformable to the Laws and Ordinances of Jehovah the Lord Chriſt,</hi> as is clearly evident from theſe following Scriptures, <hi>viz. Deut.</hi> 6. 1, 2, 3, 4, 5, 6, 7 8, 9. and 10, 12 13. <hi>Matth. 22. 35, 36, 37, 38, 39, 40. Luke 10. 25, 26, 27, 28. Jam. 2. 8, 9, 10, 11. 1 Joh.</hi> 2. 3. and 3. 22, 23, 24. and 5. 2, 3. And is he not then perjured, if he ſee it not per<g ref="char:EOLhyphen"/>formed?</p>
+            <p>Beſides, is it not the undoubted badge of the <hi>Man of ſin,</hi> and <hi>Son of perdition,</hi> to give forth <hi>his own Edicts,</hi> in his <hi>own name;</hi>
+               <pb n="10" facs="tcp:167957:8"/> and therefore is ſaid to <hi>oppoſe and exalt himſelf above all that is cal<g ref="char:EOLhyphen"/>led God, or worſhipped, ſo that he <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>its in the Temple of God, ſhewing himſelf that he is God,</hi> 2 Theſ. 2. 4. And if ſo, what are they other than his Puples that imitate him, pretending to be what they are not, as too many do in theſe dayes of Apoſtacy?</p>
+            <p n="3">3 Whereas he ſaith, we deſire to determine of <hi>Liberty</hi> and <hi>Property,</hi> and <hi>every thing elſe;</hi> we anſwer, That this charge is like the reſt; for we deſire to determine no otherwiſe of any thing, than the alone Law-giver hath commanded to be done; and that we hope, as we are his <hi>profeſſed ſons and ſervants,</hi> we may be bold to do in the preſence of God, Angels, and <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en; for by ſo doing, we ſhall act as <hi>ſervants,</hi> not as <hi>Lords,</hi> as ſome do, both in <hi>Civils</hi> and <hi>ſpirituals.</hi>
+            </p>
+            <p n="4">4 As to the reception of thoſe <hi>holy, juſt, and perfect Laws and Ordinances</hi> of Jehovah the Lord Chriſt, <hi>we are clearly of his opi<g ref="char:EOLhyphen"/>nion,</hi> viz. That the <hi>wiſe men,</hi> and <hi>ſelf-intereſted men</hi> of this Commonwealth, will be very <hi>a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erſe thereunto,</hi> Knowing, that the natural man receiveth not the things of God, becauſe they are fooliſhneſſe unto him, neither can he know them, <hi>&amp;c. 1 Cor.</hi> 2. 14.</p>
+            <p>And therefore, we ſhall not much wonder if the <hi>Heathen rage, and the people imagine vain things,</hi> if the <hi>Kings of the earth ſtand up, and the Rulers take counſel together, againſt the Lord, and againſt his Anointed, ſaying, Let us break their bonds aſunder, and caſt away their cords from us,</hi> KNOWING, <hi>that <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e that ſitteth in heaven laugheth, and that the Lord hath them in deriſion,</hi> that <hi>he will ſpeak to them in his</hi> WRATH, <hi>and vex them in his ſore diſpleaſure,</hi> that he will <hi>break them with a rod of iron, and daſh them in peeces like a Potters veſſel;</hi> And in the cloſe, will in deſpight of them, <hi>ſet his King upon his holy hill of Zion,</hi> Pſal. 2.</p>
+            <p>
+               <hi>Be wiſe now therefore, O ye Kings, be inſtructed ye Judges of the earth &amp;c. Kiſſe the Son leſt he be angry, and ye periſh from the way, when his wrath is kindled, yea but a little,</hi> then let ſuch as preſumptu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſly oppoſe him, look to themſelves.</p>
+            <p>Speech. <hi>Beſide certainly, though many of theſe men have good mean<g ref="char:EOLhyphen"/>ings, as I hope in my ſoul they have, yet it will be the wiſdome of all knowing and experienced Chriſtians, to do as</hi> Jude <hi>ſaith (when he had reckoned up thoſe horrible</hi> 
+               <note n="*" place="margin">This is much like <hi>Hil<g ref="char:EOLhyphen"/>d brands</hi> &amp;c <hi>in<g ref="char:EOLhyphen"/>fernal firebrand</hi> p. 9. where they alſo in<g ref="char:EOLhyphen"/>numerate us a<g ref="char:EOLhyphen"/>mong <hi>Blaſ<g ref="char:EOLhyphen"/>phemers,</hi> for de<g ref="char:EOLhyphen"/>ſiring to pro<g ref="char:EOLhyphen"/>mote the pure and ſimple Laws and Or<g ref="char:EOLhyphen"/>dinances of God, &amp; Chriſt, without the mixture of <hi>mens inventions</hi> in State and Church.</note> 
+               <hi>things done upon pretences, and
+<pb n="11" facs="tcp:167957:8"/> happily by ſome upon miſtakes)</hi> Of ſome, <hi>ſaith he,</hi> have compaſſion, making a difference, others ſave with fear. <hi>I fear they will give opportunity too often for this exerciſe, and I hope the ſame will be for their good.</hi>
+            </p>
+            <p>
+               <hi>Reſpon.</hi> Reader, behold thou haſt here the ſame perſon, that hath confeſſed the FIFTH MONARCHY MEN to be <hi>people of</hi> 
+               <note place="margin">Note the Characters given us by out A<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r.</note> 
+               <hi>integrity.</hi> (2) Such as <hi>have not been catched with his fore-mentioned miſtakes.</hi> (3) Such as <hi>have not Apoſtatized from their holy Pro<g ref="char:EOLhyphen"/>feſſion.</hi> (4) Such as <hi>are not corrupt in their conſciences.</hi> (5) Such as <hi>are not forſaken by God.</hi> (6) Such as <hi>are not left to noyſome Opi<g ref="char:EOLhyphen"/>nions.</hi> (7) Such as <hi>are more refined than others.</hi> (8) Such as <hi>are honeſt people.</hi> (9) Such as <hi>he conceiveth in his very ſoul have good meanings.</hi> (10) Such <hi>whoſe Notion himſelf honoureth, waiteth, and hopeth for</hi> (at leaſt in pretence) (11) Such <hi>whoſe hearts are ſincere.</hi> (12) Such as <hi>belong unto God.</hi> Now numbring them among the <hi>horrible tranſgreſſors of the times,</hi> and ſuch as he can freely blow the Bellows of a perſecution againſt, and that with <hi>a pretended zeal for Gods glory.</hi>
+            </p>
+            <p>Well, bleſſed be the Lord, for we are hereby the more aſſured that we are the ſervants of our profeſſed Lord and Maſter, who was d<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lt with in the very ſame manner, <hi>Iſa. 53. 12. And the ſer<g ref="char:EOLhyphen"/>vant is not greater than his Lord,</hi> Joh. 15. 20. And therefore we may well expect to be ſo uſed; but yet notwithſtanding we ſhall deſire ſome particular inſtances of thoſe <hi>Horrible Tranſgreſſions,</hi> we are thus cunningly involved into (this is not with <hi>Moſes</hi> and <hi>Paul</hi> to dye for Gods people.)</p>
+            <p>Speech. <hi>If men do but pretend for Juſtice and Righteouſneſſe, and be of peaceable ſpirits, and will manifeſt this, let them be the ſubject of the Magiſtrates incouragement. And if the Magiſtrate by puniſhing vi<g ref="char:EOLhyphen"/>ſible miſcarriages, ſave them by the Diſcipline (God hath ordained for that end) I hope it will evidence love, and no hatred, to puniſh where there is cauſe.</hi>
+            </p>
+            <p>
+               <hi>Reſpon.</hi> Indeed ſome have ſufficiently <hi>pretended</hi> that which we now cleerly ſee they <hi>never intended;</hi> and if his endeavour be to devolve us into that <hi>Predicament,</hi> he is at a <hi>loſſe;</hi> for we are for <hi>realities,</hi> and not <hi>ſpecious pretences,</hi> to be not onely ſaying, but doing <hi>the will of our Maſter.</hi> It is the Hypocrite that ſaith, and doth not. The <hi>Scribes</hi> and <hi>Phariſees</hi> of theſe times, <hi>who
+<pb n="12" facs="tcp:167957:9"/> bind heavy burthens, and grievous to be born, and lay them on mens ſhoulders, but they themſelves will not touch them with one of their fin<g ref="char:EOLhyphen"/>gers,</hi> Matth. 23. 2, 3, 4. The Accuſer would therefore do well to compare this his expreſſion <hi>with his former actions,</hi> and then ſee whether of us two deſerve the—Hath his <hi>pretence for Justice and Righteouſneſs</hi> been manifeſted by a peaceable ſpirit? hath it not led him through the <hi>blood of Kings, and Potentates,</hi> to lay the houſe of Peers aſide, and to winnow and ſift the Re<g ref="char:EOLhyphen"/>preſentative of the people of <hi>England,</hi> and to bring them to an handful? <hi>vid. Speech</hi> 14. July, <hi>&amp;c.</hi>
+            </p>
+            <p>Yea the ſame Juſtice and Righteouſneſſe that we now deſire may be <hi>exalted;</hi> And is that worthy of <hi>juſtification in him,</hi> and <hi>condemnation in us?</hi> And if the Magiſtrates will faithfully puniſh <hi>viſible miſcarriages,</hi> we know who would not golong unpuniſhed, and that to ſome purpoſe, and yet but mete to them in the ſame meaſure that they would have meaſured <hi>to the guiltleſſe,</hi> which we take to be, <hi>a very righteous judgement,</hi> Matth. 7. 2. which if the Magiſtrate will do, <hi>we hope it will evidence love, and not hatred, to puniſh where there is cauſe,</hi> let the perſon be never ſo great; <hi>for God hateth all workers of iniquity,</hi> Pſal. 5. 5. <hi>And accepteth not the per<g ref="char:EOLhyphen"/>ſon of Princes, nor regardeth the rich more than the poor,</hi> Job 34. 19. <hi>And Reformation had better begin at the Majorities than the Mino<g ref="char:EOLhyphen"/>rities,</hi> And that by his <hi>own confeſſion.</hi> vid. Ibid. Remon. Albans pag. 10.</p>
+            <p>Speech. <hi>Indeed this is that which doth moſt declare the danger of that ſpirit, for if theſe were but Notions, I mean the inſtances I have given you both of Civil conſiderations and Spiritual; If, I ſay, they were but Notions, they were to be let alone; Notions will hurt none but them that have them.</hi>
+            </p>
+            <p>
+               <hi>Reſpond.</hi> Reader, ſurely we ſhall now ſhortly know the meaning of this hudled Diſcourſe. I fear there is <hi>ſomething of ſelf lyeth at the bottome,</hi> if we could once come to it, but at pre<g ref="char:EOLhyphen"/>ſent I clearly perceive he is content we ſhould with <hi>David, keep our mouths with a bridle, whilſt the wicked are before us,</hi> that we may be <hi>dumb with ſilence,</hi> and to hold <hi>our tongues even from good words, though it be pain and grief unto us,</hi> Pſal. 39. 1, 2. Thus far as it relateth to <hi>our hurt,</hi> he is well pleaſed with, thus far he is
+<pb n="13" facs="tcp:167957:9"/> content we ſhould be the ſubject of the <hi>Magiſtrates incouragement,</hi> but what follows?</p>
+            <p>Speech. <hi>But when they come to ſuch a practice.</hi>
+            </p>
+            <p>
+               <hi>Reſpon.</hi> What practice?</p>
+            <p>Speech. <hi>As to tell</hi> US.</p>
+            <p>
+               <hi>Reſpond.</hi> I told you we ſhould find ſomething <hi>of ſelf in the bottome;</hi> he was content that we ſhould imitate <hi>David</hi> as afore<g ref="char:EOLhyphen"/>ſaid, but if we once come to <hi>act him</hi> in the third verſe of that Pſalm, <hi>viz.</hi> That <hi>our hearts begin once to wax hot within us, whilſt we are muſing of the Apoſtate actions of the Army in theſe times.</hi> And that <hi>the fire of zeal to Gods glory, and the Nations good be kindled ſo in us, as that we are conſtrained to ſpeak with our tongue,</hi> (What, <hi>to tell</hi> US.) This amounteth to a <hi>Civil Tranſgreſſion</hi> to ſome pur<g ref="char:EOLhyphen"/>poſe, and worthy to be puniſhed as a <hi>viſible miſcarriage.</hi> But what is it that we are ſo bold to tell?</p>
+            <p>Speech. <hi>That Liberty and Property, are not the badges of the Kingdome of Chriſt.</hi>
+            </p>
+            <p>
+               <hi>Reſpond.</hi> This we ſay is <hi>ſcandalous;</hi> for in as much as the <hi>Royal Law<g ref="char:punc">▪</g> of Jehovah</hi> doth neither deſtroy <hi>Liberty</hi> nor <hi>Property;</hi> and that being the <hi>Law we ſtand for,</hi> it muſt therefore unavoidably fol<g ref="char:EOLhyphen"/>low, that we have no ſuch principle, and conſequently that we have uſed no <hi>ſuch expreſſions.</hi> Nay, we are ſo far from ſaying ſo, as that we have declared our deteſtation thereof to all the world. It is likely indeed we might ſay, that <hi>proud, tyrannical, oppreſſing,</hi> and <hi>perſecuting Magiſtrates,</hi> neither <hi>Lordly, covetou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> or <hi>Apoſtate Prieſts,</hi> neither <hi>griping, ſqueazing,</hi> or <hi>devouring Lawyers,</hi> are badges of that Kingdome. And ſo indeed we might come to touch the free-hold of ſome.</p>
+            <p>Speech. <hi>To tell</hi> U S, <hi>That inſtead of regulating Laws, Laws are to be abrogated, indeed ſubverted.</hi>
+            </p>
+            <p>
+               <hi>Reſpon.</hi> Our bleſſed Saviour telleth the Scribes and Phariſees (Hypocrites) <hi>Matth.</hi> 15. 3, 4, 6, 9. that they had tranſgreſſed the Royal Law of God, and made it of <hi>none effect</hi> by their <hi>Traditions.</hi>
+            </p>
+            <p>And hence it was the Apoſtle <hi>Paul</hi> querieth, <hi>What communion light could have with darkneſs,</hi> or <hi>what concord Chriſt could have with Belial, And what part he that believeth, could have with an Infidel, or what
+<pb n="14" facs="tcp:167957:10"/> agreement the Temple of God could have with Idols,</hi> 2 Cor. 6. 14, 15, 16, <hi>&amp;c.</hi>
+            </p>
+            <p>And hence it was we <hi>rejected the</hi> PRELATICAL HIERAR<g ref="char:EOLhyphen"/>CHY, becauſe it had ſo neer an <hi>Affinity,</hi> yea <hi>Conſanguinity,</hi> with the PAPACY. And therefore in as much as PRESBYTERY is as neer of kin to <hi>Prelacy,</hi> as <hi>Prelacy</hi> to <hi>Popery,</hi> it ought as well to be <hi>abrogated root and branch as</hi> PRELACY, being both DAUGHTERS to that MOTHER OF HARLOTS, <hi>Rev.</hi> 17. 5. to that MYSTERY OF INIQUITY, and ABOMI<g ref="char:EOLhyphen"/>NATION OF THE EARTH; Yea doubtleſſe, it may confi<g ref="char:EOLhyphen"/>dently be affirmed, that <hi>what Church ſoever</hi> doth yet retain the CONSTITUTION of the <hi>Church</hi> of <hi>Rome,</hi> ſince its APO<g ref="char:EOLhyphen"/>STACY, albeit never ſo much refined in other particulars (as relinquiſhing its <hi>Ordination, &amp;c.</hi> which the <hi>Presbyterians, &amp;c.</hi> have not done) is ſtill to be eſteemed as <hi>Babyloniſh</hi> and <hi>Anti<g ref="char:EOLhyphen"/>chriſtian.</hi>
+            </p>
+            <p>And the like may alſo be ſaid in point of <hi>Regulating the Civil Laws</hi> of Commonwealths derived from the <hi>Aſſirian</hi> or <hi>BABY<g ref="char:EOLhyphen"/>LONISH MONARCHY</hi> erected by <hi>Nimrod,</hi> Gen. 10. 9, 10. which though the Magiſtrate ſhould <hi>refine never ſo much,</hi> yet it is but a <hi>REFINING OF BABEL:</hi> for whilſt there is any thing in them that may be <hi>termed H<g ref="char:V">Ʋ</g>MANE,</hi> either in <hi>Civil</hi> or <hi>Ec<g ref="char:EOLhyphen"/>cleſiaſtical Laws,</hi> that may be ſaid to be <hi>added</hi> or <hi>detracted</hi> from the Law of God compriſed in the Old and New Teſtament, they by ſo doing bring themſelves under the <hi>Curſe</hi> of God, <hi>Deut. 22. 26. Gal.</hi> 3. 10.</p>
+            <p>Therefore we may ſafely <hi>aſſert,</hi> that by how much the preſent Magiſtrates of this Commonwealth do judge them<g ref="char:EOLhyphen"/>ſelves to be the members of the body of Chriſt, or that the God of Heaven and Earth is their God, or expect to have God dwell in them, and walk in them, or they to be his people, they ought to come <hi>wholy out of the BABYLONISH and ANTICHRISTIAN ESTATE,</hi> whether in re<g ref="char:EOLhyphen"/>ference to <hi>CIVIL,</hi> or <hi>SPIRIT<g ref="char:V">Ʋ</g>AL GOVERNMENT,</hi> yea to bee ſuch <hi>SEPARATISTS</hi> from them, as not to <hi>touch them in the leaſt,</hi> but to pluck them up <hi>ROOT</hi> and <hi>BRANCH;</hi> And ſo <hi>wholy conform themſelves to the word of
+<pb n="15" facs="tcp:167957:10"/> God</hi> for their <hi>SOLE R<g ref="char:V">Ʋ</g>LE and direction therein,</hi> which if they will yet ſubmit unto, the Ap<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtle averreth that the Lord Chriſt hath promiſed to receive them into his <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ingdom<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and to be a Father unto them, and that they ſhall be his children, 2 <hi>Cor.</hi> 6. 27, 28.</p>
+            <p>But that this <hi>will not eaſily be aſſented unto by the preſent Powers of the world,</hi> is cleerly made out unto us by another of his own <hi>created</hi> 
+               <note n="*" place="margin">Whoſe ex<g ref="char:EOLhyphen"/>preſſions will need no Inter<g ref="char:EOLhyphen"/>preter.</note> 
+               <hi>Doctors, viz.</hi> Mr. <hi>John Owen,</hi> in his Sermon upon <hi>Heb.</hi> 12. 27. page 25. where he ſaith, That, that which doth, <q>and ſhall ſtick upon <hi>Potentates to their ruine,</hi> is not ſo much their own, or any other intereſt, as the <hi>Dregs of the Papal An<g ref="char:EOLhyphen"/>tichriſtian intereſts</hi> thruſt into their <hi>Oaths</hi> and <hi>Obligations,</hi> for <note place="margin">I ſhall only propound ſome Queries.</note> no other end in the world, <hi>B<g ref="char:V">Ʋ</g>T TO KEEP THE LORD JES<g ref="char:V">Ʋ</g>S O<g ref="char:V">Ʋ</g>T OF HIS THRONE,</hi>
+               </q>
+            </p>
+            <p>
+               <q>And hereupon it was (ſaith he in his Sermon upon <hi>Ezek.</hi> 17, 24 page 12.) that the <hi>late King</hi> had learned a ſaying from his Predeceſſors, <hi>No Biſhop, no King,</hi> ſuppoſing his <hi>MAIN INTEREST</hi> to lye in holding up <hi>PRELACY,</hi> a mere <hi>INCROACACHMENT</hi> upon the <hi>INHERITANCE OF CHRIST,</hi> Chriſt coming to take <hi>his OWN, ſhakes the other in peeces.</hi>
+               </q>
+            </p>
+            <p>
+               <q>Again (ſaith he) thoſe who would have been our <hi>Oppreſſors</hi> 
+                  <note place="margin">Were not thoſe the Presbyterian Prieſts? &amp;c.</note> in <hi>Scotland,</hi> but that God hath cruſhed the <hi>Cockatrice</hi> in the ſhell, and filled the pit with their dead bodies, which they had digged for us, they alſo had prepared a <hi>PROCR<g ref="char:V">Ʋ</g>STES BED,</hi> a heavy yoak, a Beaſt that had it <hi>grown to perfection,</hi> would have had <hi>HORNS</hi> and <hi>HOOFS,</hi> And in <hi>maintaining</hi> this, they think their <hi>GREAT INTEREST TO LYE.</hi> And in holding this faſt, are they, after all their Aſſociations, <hi>broken in peeces.</hi>
+               </q>
+            </p>
+            <p>Again, in page 21. of that Sermon, <q>What was the <hi>corrupted deſign</hi> of many in <hi>Scotland,</hi> that they might ſet up a <hi>SON</hi> of <note place="margin">Was it corrupt in them then, &amp; not in your ſelves now.</note> 
+                  <hi>TABEAL</hi> in <hi>England,</hi> and <hi>THEMSELVES</hi> to be <hi>GREAT <g ref="char:V">Ʋ</g>NDER HIM,</hi> and that they and <hi>their Partakers,</hi> might <hi>IM<g ref="char:EOLhyphen"/>POSE</hi> on the <hi>reſidue of the Nations,</hi> eſpecially in the <hi>things of God?</hi> Their great deſire that things ſhould be thus, corrupts their minds, to think that it <hi>ought to be ſo.</hi> Hence <hi>AM<g ref="char:EOLhyphen"/>BITION
+<pb n="16" facs="tcp:167957:11"/> TO R<g ref="char:V">Ʋ</g>LE,</hi> and to have all <hi>under their power</hi> even in <hi>conſcience,</hi> is quickly miſtaken for <hi>zeal for the Kingdome of Chriſt,</hi> inthroning of <hi>Tyranny</hi> is <hi>Loyalty,</hi> and all according to <hi>Covenant:</hi> As if men had ſworn to be good to <hi>themſelves,</hi> and to be true to their own <hi>intereſt</hi> all their dayes, which ſurely none need to be ſworn to. Thus mens minds and judgements are <hi>diſtempered</hi> by their <hi>luſts</hi> and <hi>intereſts,</hi> which makes them <hi>frame a way for God to proceed in.</hi>
+               </q>
+            </p>
+            <p>
+               <q>And this is the reaſon (ſaith he page 25. of his Sermon <hi>Heb.</hi> 12. 27.) that the Lord Jeſus by his <hi>MIGHTY POWER,</hi> at <note place="margin">Wherein is it altered ſince that time.</note> his bringing in of his <hi>
+                     <g ref="char:V">Ʋ</g>NMOVABLE KINGDOM,</hi> will ſhake the <hi>HEAVENS</hi> and the <hi>EARTH</hi> of the <hi>NATIONS,</hi> even becauſe in their * <hi>PRESENT CONSTIT<g ref="char:V">Ʋ</g>TION</hi> they are <hi>DIRECTLY FRAMED</hi> to the <hi>INTEREST OF ANTICHRIST,</hi> which by <hi>notable advantage</hi> at their <hi>FIRST MO<g ref="char:V">Ʋ</g>LDING,</hi> and <hi>CONTRIVED INSIN<g ref="char:V">Ʋ</g>A<g ref="char:EOLhyphen"/>TIONS</hi> ever ſince, hath ſo <hi>riveted it ſelf</hi> into the very <hi>F<g ref="char:V">Ʋ</g>NDAMENTALS</hi> of them, that no <hi>digging</hi> or <hi>Mi<g ref="char:EOLhyphen"/>ning,</hi> without an <hi>EARTHQ<g ref="char:V">Ʋ</g>AKE</hi> will caſt up the <hi>FO<g ref="char:V">Ʋ</g>NDATION</hi> 
+                  <note n="*" place="margin">What, cal you them founda<g ref="char:EOLhyphen"/>tion ſtones?</note> 
+                  <hi>ſtones thereof,</hi> becauſe as is their <hi>intereſt,</hi> ſo is their <hi>acting,</hi> the <hi>preſent powers of the Nations</hi> ſtands in <hi>DIRECT OPPOSITION</hi> to the bringing in of the KING<g ref="char:EOLhyphen"/>DOME OF CHRIST.</q>
+            </p>
+            <p>Again, Page 27. of that Sermon. <q>Are not moſt Potentates tyed by OATH, or OTHER COMPACT, to maintain either the WHOLE, or <hi>ſome part of the</hi> OLD TOWER, under the <note place="margin">
+                     <hi>Vid.</hi> Art. 35. Government. Reader com<g ref="char:EOLhyphen"/>pare theſe ex<g ref="char:EOLhyphen"/>preſſions with the late tranſ<g ref="char:EOLhyphen"/>actions.</note> 
+                  <hi>name of</hi> RIGHT OF HOLY CHURCH, <hi>Prelats, and the like?</hi> And can any expect that <hi>ſuch as theſe</hi> ſhould take up the DES<g ref="char:EOLhyphen"/>PISED QUARREL OF THE SAINTS, againſt that FLOU<g ref="char:EOLhyphen"/>RISHING QUEEN? <hi>Doubtleſſe</hi> NO SUCH FRUIT WILL GROW ON THESE TREES, before they are THROUGHLY SHAKEN. All carnal Intereſts will doubt<g ref="char:EOLhyphen"/>leſſe be ſhaken with that of <hi>Babylon.</hi> Many of Gods people are not <hi>weaned</hi> from the things <hi>that are ſeen.</hi> No ſooner is one CARNAL FORM SHAKEN OUT, but they are ready to CLEAVE TO ANOTHER; Yea to warm themſelves in the FEATHERED NESTS OF UNCLEAN <note n="*" place="margin">Is it not ſo at this day.</note> BIRDS. All <hi>fl<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſhly Dominion within doors,</hi> and all <hi>Civil Dominion</hi> that oppo<g ref="char:EOLhyphen"/>ſeth <hi>without doors,</hi> ſhall be ſhaken.</q>
+            </p>
+            <p>
+               <q>
+                  <pb n="17" facs="tcp:167957:11"/>Now theſe things are ſo <hi>glued</hi> alſo to mens <hi>earthly poſſeſſions,</hi> the talons of the <hi>birds</hi> 
+                  <note place="margin">Who are thoſe birds of prey, un<g ref="char:EOLhyphen"/>leſs the ſoul<g ref="char:EOLhyphen"/>dier, pries<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> and law<g ref="char:EOLhyphen"/>yer?</note> 
+                  <hi>of prey</hi> having firmly ſeized on them, that <hi>THEY alſo muſt be ſhaken with them.</hi>
+               </q>
+            </p>
+            <p>Reader conſider theſe expreſſions of Mr. <hi>Owens</hi> ſeriouſly, and then tell me whether he had not a good gheſs of what we have ſeen ſince the preaching of theſe Sermons, come to paſs. I preſume Mr. <hi>Tho. Goodwin</hi> and himſelf, <hi>&amp;c.</hi> little thought then, that <hi>their own words</hi> ſhould now have been brought <hi>in teſtimony againſt them.</hi> But, <hi>the heart of man is deceitful above all things.</hi>
+            </p>
+            <p>Now that this <hi>ſhaking</hi> here ſpoken of, is not to be taken in Mr. <hi>Owen</hi>'s <hi>ſenſe,</hi> p. 14. of that Sermon, (where he ſaith, It is not a <hi>de<g ref="char:EOLhyphen"/>ſtruction,</hi> or <hi>total amotion</hi> of the <hi>great things</hi> of the Nations, but a <hi>change, tranſlation,</hi> or <hi>new molding</hi> of them, that is here intima<g ref="char:EOLhyphen"/>ted; they ſhall (ſai<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h he) be ſhuffled together, <note n="*" place="margin">Not <hi>alto<g ref="char:EOLhyphen"/>gether,</hi> it ſeems.</note> almoſt into their pri<g ref="char:EOLhyphen"/>mitive confuſion, and come out <hi>new molded</hi> for the intereſt of the Lord Jeſus. Again, all the preſent States of the world are <hi>cemented together</hi> by <hi>Antichriſtian lime,</hi> &amp;c. that unleſs they be <hi>ſo</hi> ſhaken, as to have every cranny <hi>ſearched</hi> and <hi>bruſhed,</hi> they will be <hi>no</hi> quiet <note place="margin">Note the Bruſh.</note> habitation for the Lord Chriſt and his People) I thus anſwer:</p>
+            <p>1. In that the holy Ghoſt ſpeaking of the time wherein theſe things ſhall be accompliſhed, (as in <hi>Iſa.</hi> 65. 17.) ſaith, <hi>Behold, I create new heavens, and a new earth;</hi> (Mark) <hi>and the former ſhall not be remembred nor come into mind.</hi> And <hi>Rev. 21. 1. I ſaw a new heaven, and a new earth; for the firſt heaven and the firſt earth were paſſed away.</hi> If then they are <hi>ſo</hi> to paſs away, as <hi>not to be remembred,</hi> nor come into Gods nor his peoples mindes, how are they <hi>in the leaſt</hi> to be retai<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed? Is it the intent of God in that text, think you, onely to pull down the Titles of <hi>Kings,</hi> and to ſet up a Title of <hi>Protector</hi> in ſtead thereof; or to pull down <hi>Biſhops,</hi> and ſet <note place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ehold Mr. <hi>Owen</hi>'s new heaven and new earth.</note> up a <hi>Scoteh Synod,</hi> or <hi>Court of Tryers,</hi> in ſtead thereof? Is that your <hi>bruſh,</hi> whereby the <hi>Antichriſtian lime</hi> is to be taken away? I am ſure, the holy Ghoſt ſpeaking of the deſtruction of <hi>Babylon, Iſai.</hi> 13. 19 &amp;c. ſaith, that it ſhall be <hi>as when God over threw So<g ref="char:EOLhyphen"/>dom and Gom<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rrha,</hi> that it ſhall <hi>NEVER be inhabited nor dwelt in, from generation to generation,</hi> &amp;c. as alſo, that <hi>he will not make uſe of one ſtone thereof either for a Foundation-ſtone, or a Corner-ſtone,</hi> but to be an <hi>everlaſting deſolation.</hi> Jer. 51. 25, 26. And yet it ſeems he would have the <hi>whole fabrick to ſtand,</hi> onely the <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rannies</hi> thereof to be <hi>ſearched,</hi> &amp; the <hi>lyme onely</hi> to be <hi>bruſhed
+<pb n="18" facs="tcp:167957:12"/> off.</hi> The <hi>old Tower</hi> (he mentioned) it ſeems is <hi>not</hi> Babyloniſh; no, it is onely the <hi>lime</hi> or <hi>mortar</hi> wherewith it is daubed together. A very Scholaſtical Expoſition!</p>
+            <p>And thus have I laid down ſome of the Grounds and Reaſons why we deſire the <hi>ſubverſion</hi> of whatſoever is of <hi>Man,</hi> either in our Ci<g ref="char:EOLhyphen"/>vils or Spirituals, unleſs in things circumſtantial, as dependencies upon the <hi>Statute<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Judgments,</hi> and <hi>Ordinances</hi> of Jehovah the Lord Chriſt; and that from the teſtimony of the holy Scripture, which we take to be ſufficient to perſwade all that are <hi>real Chriſtians,</hi> to own, embrace, and put in practice: and conſequently, that whoſoever pre<g ref="char:EOLhyphen"/>tendeth that they are Chriſtians, and yet <hi>refuſe</hi> ſo to do, do thereby clearly declare themſelves <hi>notorious hypocrites,</hi> as alſo <hi>profeſſed ex<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mies</hi> to Jehovah the Lord Chriſt, and that by his own atteſta<g ref="char:EOLhyphen"/>tion, <hi>Luke</hi> 19. 27.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Speech. </seg>
+               </label> 
+               <hi>And perhaps would bring in the Judaical Law, in ſtead of our known laws, and ſetled among us.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reſp. </seg>
+               </label> I had thought the Laws of God had been as well <hi>known</hi> unto thoſe that profeſs themſelves Gods people, as any other Laws what<g ref="char:EOLhyphen"/>ſoever, yea, <hi>above</hi> all other Laws whatſoever; and eſpecially by ſuch an one as accounteth himſelf to be a <hi>father</hi> to the <hi>family</hi> of Gods people. I remember, it was a duty incumbent upon <hi>fathers</hi> of particular families in the Iſrael of God, to teach the Laws, Sta<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>utes, and Judg<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ats of Jehovah diligently unto their <hi>children,</hi> and to <hi>talk of them,</hi> when they <hi>ſate in their houſes,</hi> and when they <hi>walked by the way,</hi> and when they <hi>lay down,</hi> and when they <hi>roſe up;</hi> and to <hi>binde them for ſignes upon their hand</hi> and as <hi>front<g ref="char:EOLhyphen"/>lets between their eyes;</hi> and to <hi>write them upon the poſts of their houſes,</hi> and on <hi>their gates.</hi> Deut. 6. 6, 7, 8, &amp;c. I read, it was alſo the cuſtom of their Magiſtrates to inſtruct the people in the ſaid <hi>Laws;</hi> as in <hi>Neb.</hi> 8. 1, 2, 3, &amp;c. It is alſo ſaid of godly <hi>David,</hi> that <hi>the Laws of God were his meditation day and night;</hi> and that he <hi>deſired them more then gold, yea then much fine gold</hi> 
+               <note n="*" place="margin">
+                  <hi>Then the king of Spain's gold in the</hi> Indi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s.</note>; yea, that they were <hi>ſweeter un<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> him then honey, or the honey<g ref="char:EOLhyphen"/>comb.</hi> And therefore I admire to hear one <hi>ſo ſeemingly-eminent,</hi> to plead a <hi>greater knowledge</hi> to the Laws of <hi>Heathens</hi> and <hi>An<g ref="char:EOLhyphen"/>tichriſtians.</hi> Yea, I appeal to any Rational man whatſoever, whe<g ref="char:EOLhyphen"/>ther any man would be thought to be in his <hi>wits,</hi> to give thoſe Cha<g ref="char:EOLhyphen"/>racters to the <hi>known Laws of England,</hi> (as he is pleaſed to term them, though I think they were never yet defined) as <hi>David</hi> hath
+<pb n="19" facs="tcp:167957:12"/> done to <hi>the Laws of God.</hi> And if not, then I deſire to know, <hi>whether</hi> of the <hi>two</hi> ought to be <hi>beſt known unto us,</hi> and <hi>put i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> practice by us;</hi> or <hi>why</hi> the <hi>Law of Nature</hi> ought not to be the <hi>Rule</hi> and <hi>Square</hi> of <hi>natural actions:</hi> which that the <hi>Judicial Law</hi> is, is clearly proved from <hi>Rom. 2. 14. For when the Gentiles that knew not the Law, did by nature the things contained in the Law, theſe having not the Law, are a Law unto themſelves, which ſh<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w the works of the Law written in their hearts, their conſciences alſo bearing them witneſs, and their thoughts in the mean time acc<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſing or excuſing one another.</hi> And what other Law was this he ſpeaketh of, then <hi>the Law of God?</hi>
+            </p>
+            <p>Again, what other Law was the <hi>old world</hi> judged by, then the aforeſaid <hi>law of Nature?</hi> Doubtleſs they were not <hi>condemned</hi> and <hi>executed</hi> by <hi>the righteous Judge of all the world,</hi> (Gen. 11. 25.) <hi>without a Law;</hi> and is it to be conceived that he would judge by any <hi>other Law</hi> then his <hi>own?</hi> and was that Law (as to the <hi>Civil</hi> part thereof) ever yet <hi>repealed</hi> by God or Chriſt? Nay, doth not the Lord Chriſt tell us himſelf, <hi>that he came not to de<g ref="char:EOLhyphen"/>ſtroy the Law?</hi> Matth. 5. 17, 18, 19. Yea, ſo far was he from ſo doing, as that contrariwiſe he affirmeth, that <hi>whoſoever ſhould break the leaſt of them, and teach men ſo, ſhall be called leaſt in the kingdom of heaven.</hi>
+            </p>
+            <p>I would gladly know then, by <hi>what authority from God,</hi> any that account themſelves <hi>Christians</hi> do <hi>make Laws</hi> for <hi>their fel<g ref="char:EOLhyphen"/>low-ſervants</hi> and <hi>ſubjects:</hi> yea, is it not clearly evident, that by ſo doing, they <hi>uſurp</hi> the <hi>Authority</hi> and <hi>Power</hi> of Chriſt the <hi>alone Law-giver?</hi> And if but <hi>one,</hi> then <hi>not two</hi> or <hi>more.</hi> Yea, do they not, by ſo doing, <hi>d<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>thro<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e</hi> and <hi>degrade</hi> the Lord Jeſus of his <hi>Le<g ref="char:EOLhyphen"/>giſlatorſhip</hi> and <hi>Judicature,</hi> which the <hi>Father</hi> hath given unto him? <hi>Joh. 5. 22. Iſa<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 9. 6. Dan. 7. 13, 34. 1 Tim. 6. 13, 14, 15. Rev.</hi> 11. 15. and 17. 14. and 19. 11, 16.</p>
+            <p>Indeed, were I at <hi>Conſtantinople,</hi> I ſhould not much wonder if the <hi>Great <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urk</hi> and his Mahometan Clergie ſhould queſtion me for what I have ſaid in reference to the <hi>law of God:</hi> but to hear a <hi>Chriſtian Magiſtrate,</hi> &amp;c. contaminate the <hi>laws of God,</hi> and magnifie the <hi>laws of Heathens</hi> and <hi>Antichriſtians</hi> above them, is to <hi>admiration.</hi> But I hope it will not be ſo for the future.</p>
+            <p>And hence it was, that godly <hi>David</hi> complaineth of ſuch per<g ref="char:EOLhyphen"/>ſons, ſaying, <hi>How long will ye judge unjuſtly, and accept the perſons
+<pb n="20" facs="tcp:167957:13"/> of the wicked. Selah.</hi> Pſal. 82. 2, &amp;c. Again, ſaith he, <hi>They know not, neither do they underſtand; they walk in darkneſs.</hi> A<g ref="char:EOLhyphen"/>gain, <hi>Solomon</hi> ſpeaking to the <hi>whole pack</hi> of thoſe <hi>Magiſtrates</hi> that contaminate the Laws of God, in chap. 6. of his book titled <hi>Wiſdom,</hi> ſaith, <hi>Hear, O Kings, and underſtand; learn, ye that are Judges of the earth: give ear, ye that rule the people, and glory in the mult<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tude of nations: for power is given you from the Lord, and ſoveraignty from the Higheſt, who ſhall try your works, and ſearch your counſels. Becauſe, being miniſters of his king<g ref="char:EOLhyphen"/>dom, ye have not judged aright, nor kept the law, nor walked after the counſel of God; horribly and ſpeedily will he come upon you: for a ſharp judgement ſhall be to them in high places. For mercy ſhall pardon the</hi> MEANEST, <hi>but</hi> MIGHTY MEN <hi>ſhall be</hi> MIGHTILY TORMENTED. <hi>For he that is Lord over all, ſhall fear no mans perſon, neither ſhall he ſtand in awe of any mans Great<g ref="char:EOLhyphen"/>neſs: for he hath made the ſmall and great, and careth for all alike.</hi> BUT A SORE TRYAL SHALL COME UPON THE MIGHTY. <hi>Unto you therefore, O Kings</hi> (ſaith he) <hi>do I ſpeak, that ye may learn wiſdom, and not fall away. For they that keep holineſs holily, ſhall be judged holy; and they that have learned ſuch things, ſhall learn what to anſwer. Wherefore ſet your affections upon my words; deſire them, and ye ſhall be inſtructed.</hi>
+            </p>
+            <p>And doubtleſs, the refuſal of ſuch <hi>Inſtructions</hi> will be the cauſe of that <hi>HORRIBLE DAY</hi> upon the <hi>Kings</hi> of the earth, and the <hi>Great Men,</hi> and the <hi>Rich Men,</hi> and the <hi>Chief Ca<g ref="char:EOLhyphen"/>ptains,</hi> and the <hi>Mighty Men,</hi> Rev. 6. 15. where they are ſaid to <hi>hide themſelves</hi> in the <hi>dens</hi> and <hi>rocks of the mountains,</hi> and to ſay to the Rocks and Mountains, <hi>Fall on us, and hide us from the face of him that ſitteth upon the throne, and from the face of the Lamb: for the great day of his wrath is come; and who ſhall be able to ſtand?</hi>
+            </p>
+            <p>And me thinks there is very much <hi>reaſon</hi> for ſuch a judgment to fall upon them. For are they any more then the <hi>Miniſters of God,</hi> as aforeſaid? as alſo in <hi>Rom.</hi> 13. 4. And is it poſſible they ſhould be <hi>Gods miniſters,</hi> (as they pretend) whilſt they <hi>make</hi> and <hi>execute their own vain Traditions and Inventions?</hi> Sure<g ref="char:EOLhyphen"/>ly no.</p>
+            <p>And therefore ſeeing the <hi>Judicial Law</hi> is that which they are bound <hi>in duty</hi> and <hi>ſervice</hi> to <hi>adminiſter,</hi> as they account
+<pb n="21" facs="tcp:167957:13"/> themſelves <hi>Gods miniſters,</hi> in reference to <hi>Civil affairs,</hi> why ought not all <hi>Kings</hi> and <hi>Laws</hi> (Pſal. 7. 10. <hi>Zeph. 2. 11.) bow</hi> to it, as <hi>the onely Rule of right judgement?</hi> For, as Mr. <hi>Aſpinwal</hi> upon <hi>Dan.</hi> 7. well obſerveth, The Laws of men do binde us to be ſubject to Authority for conſcience ſake, either actively, in doing what they command according to Chriſt; or elſe in ſuffering. And their Law is ſatisfied, if we ſuffer the penalty, to preſerve our <hi>conſciences undefiled:</hi> But it is not ſo with the Law of God. If <hi>God</hi> command, we may not ſay, <hi>We will ſuffer the puniſhment for conſcience ſake:</hi> for there can be <hi>no conſcience,</hi> or <hi>pretence of conſcience,</hi> againſt <hi>any Law of God.</hi> And therefore all <hi>humane laws</hi> ought to be <hi>ſlighted</hi> and <hi>contemned,</hi> as <hi>fancies,</hi> in compariſon of the foreſaid <hi>Royal law of Jehovah</hi> the Lord Chriſt.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Speech. </seg>
+               </label> 
+               <hi>Though now by ſome miſ-applied.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reſp. </seg>
+               </label> To this clauſe let Mr. <hi>Owen</hi> ſpeak for us, in his Sermon upon <note place="margin">All the reſt were Baby<g ref="char:EOLhyphen"/>loniſh and Antichriſti<g ref="char:EOLhyphen"/>an.</note> 
+               <hi>Ezek.</hi> 17. 24. page 20, &amp;c. where ſpeaking of <hi>miſ-applying</hi> of things by the <hi>Potentates of the world,</hi> he ſaith, <q>That from the corruption of the hearts of men, ſquaring the <hi>works of God</hi> to their <hi>fleſhly reaſonings, corrupt intereſts</hi> and <hi>principles,</hi> they are <hi>bold</hi> with the wiſdom of God, and conclude, Thus and thus things <hi>ought to be;</hi> ordering their thoughts for the moſt part according to their <hi>corrupt</hi> and <hi>carnal advantages,</hi> &amp;c. And this (ſaith he) makes them <hi>frame a way for God to proceed in;</hi> which when he <hi>doth not,</hi> how are they <hi>ſurpriſed!</hi> Men take up Principles they will adhere unto, <hi>wiſe principles, forſooth,</hi> yea, and <hi>very righteous too:</hi> all things whatſoever muſt be ſquared according to <hi>their principle;</hi> and if any thing be <hi>wrought con<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rary,</hi> even by <hi>God himſelf,</hi> how diſappointed are they!</q>
+            </p>
+            <p>
+               <q>The moſt <hi>tremendous judgement</hi> of God in this world, is <note place="margin">I wiſh ſome one be not now in Pha<g ref="char:EOLhyphen"/>roahs then Condition.</note> the <hi>hardning the hearts of men:</hi> this <hi>ſeals them up,</hi> for the moſt part, for <hi>deſtruction,</hi> &amp;c. As for inſtance: look on <hi>Pharaoh,</hi> of whom it is moſt <hi>ſignally ſpoken,</hi> that God <hi>hardned his heart.</hi> How did the Lord accompliſh this? <hi>Pharaoh</hi> ſets himſelf up<g ref="char:EOLhyphen"/>on as <hi>righteous Principles,</hi> as ever any of the ſons of men could do: one is, <hi>That it belongs to the chief Ruler of a Na<g ref="char:EOLhyphen"/>tion, to ſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e the profit and glory of the Nation,</hi> &amp;c. Hence he con<g ref="char:EOLhyphen"/>clude, That if it be incumbent on him to ſee that the <hi>Realm</hi> receive <hi>no detriment,</hi> he muſt not let the people go.
+<pb n="22" facs="tcp:167957:14"/> God <hi>confirms</hi> his heart in this <hi>Principle,</hi> which was <hi>good in it ſelf,</hi> but <hi>abominable</hi> 
+                  <note n="*" place="margin">
+                     <hi>When done in oppoſition to the</hi> fifth Monarchy</note>, when taken up againſt the mind and will of God; and whence, <hi>he</hi> and <hi>his periſhed in their Principles,</hi> acting againſt the <hi>appearance of God,</hi> &amp;c. Thus it is with ma<g ref="char:EOLhyphen"/>ny, they fix on Principles <hi>good in general,</hi> and in their <hi>ſeaſon: Old bounds</hi> muſt not be <hi>broken up; Order</hi> muſt not be <note n="*" place="margin">Our known Laws muſt not be ſpo<g ref="char:EOLhyphen"/>ken againſt, let them be never ſo contrary to the Law of God and of Christ.</note> 
+                  <hi>diſtur<g ref="char:EOLhyphen"/>bed;</hi> let God appear <hi>never ſo eminently,</hi> ſo mightily, they will keep up their <hi>Principles:</hi> What is this, but <hi>judicial hardneſs?</hi> And this, I ſay, is one reaſon why the actings of God in ſuch a day as this, are ſo <hi>unſuted with the expectations of men;</hi> they ſquare <hi>his work</hi> to <hi>their intereſts</hi> and <hi>principles;</hi> which it will <hi>not anſwer.</hi>
+               </q>
+            </p>
+            <p>Now Reader compare the <hi>preſent work</hi> of Chriſt in the world with the <hi>preſent ſtate of affairs in this Nation,</hi> and then judge whether the <hi>Fifth Monarchy-men,</hi> or their <hi>Accuſer,</hi> be the <hi>miſ<g ref="char:EOLhyphen"/>appliers</hi> he ſpeaketh of: Whether the <hi>known laws</hi> of Jehovah the Lord Chriſt, or the <hi>known laws</hi> of <hi>England,</hi> be <hi>fittest for the fifth Monarchy,</hi> or <hi>Government of the kingdom of Chriſt,</hi> which he himſelf hath ſo long <hi>contested for,</hi> or at leaſt pretended for, as his Declarations and Remonſtrances do <hi>clearly evidence.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Speech. </seg>
+               </label> 
+               <hi>Eſpecially where every ſtone is turned to bring in Confuſion, this will be worth every Magiſtrates conſideration.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reſp. </seg>
+               </label> It were good it were known <hi>by whom</hi> or <hi>how</hi> every ſtone is <hi>ſo turned.</hi> If by the <hi>Fifth Monarchy-men,</hi> let either <hi>himſelf,</hi> or any <hi>for him,</hi> ſhew in <hi>what,</hi> that we may make our <hi>defence</hi> there<g ref="char:EOLhyphen"/>unto; and let us not be <hi>accuſed</hi> and <hi>condemned</hi> upon <hi>jealouſies</hi> and <hi>ſurmiſes,</hi> or <hi>we know not what,</hi> through <hi>ſubtilty</hi> and <hi>cunning ſuggestions,</hi> which the Lord will one day call to an account.</p>
+            <p>Thus Reader haſt thou ſeen the <hi>whole body</hi> of his Charge a<g ref="char:EOLhyphen"/>gainſt the <hi>Fifth Monarchy-men,</hi> vaniſh into <hi>nothing:</hi> which doubtleſs will be the <hi>event</hi> of <hi>every weapon</hi> that is <hi>formed a<g ref="char:EOLhyphen"/>gainſt</hi> Jeſus Chriſt, or thoſe that are <hi>faithful</hi> to his intereſt.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Speech. </seg>
+               </label> 
+               <hi>Thi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, I ſay, will be worthy of the Magiſtrates conſideration.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reſp. </seg>
+               </label> It will be ſo indeed, and therefore it was worthy of a <hi>dou<g ref="char:EOLhyphen"/>ble remembrance.</hi> For it is certain, that <hi>all the preſent powers of the earth</hi> are now <hi>at the ſtake;</hi> and therefore ſuch of them as are <hi>ſelf-ended</hi> men, <hi>covetous, proud,</hi> &amp;c. had need to <hi>look about them;</hi> for doubtleſs the <hi>STONE cut out without hands,</hi> is <hi>grow<g ref="char:EOLhyphen"/>ing</hi> into <hi>ſuch a Mountain</hi> as will <hi>fill the whole earth;</hi> and that
+<pb n="23" facs="tcp:167957:14"/> even to the <hi>breaking in pieces</hi> and <hi>conſuming</hi> all their Kingdoms, whether they be <hi>Iron, Clay, Braſs, Silver,</hi> or <hi>Gold:</hi> yea, <hi>ſo</hi> to break them in <hi>pieces,</hi> as to make them like unto <hi>the chaff of the ſummer threſhing-floor<g ref="char:punc">▪</g>
+               </hi> yea, the winde of the wrath of the Almighty ſhall ſo carry them away, as that <hi>there ſhall no place be found for them,</hi> Dan. 2.</p>
+            <p>Again, the reſt of the Magiſtrates that are <hi>not ſuch,</hi> (if there be any) ought alſo doubtleſs to <hi>conſider ſeriouſly hereof,</hi> as alſo to <hi>compare</hi> the preſent Laws of the <hi>Nation</hi> with the Laws of <hi>God.</hi> For, as Mr. <hi>Aſpinwal</hi> ſaith, If the <hi>laws of God</hi> (con<g ref="char:EOLhyphen"/>tained in the holy Scriptures) be well weighed <hi>in the balance of the Sanctuary,</hi> it will appear to be the <hi>moſt ſafe</hi> and <hi>wholeſome Government in the world.</hi> For what can be imagined to be <hi>more ſafe,</hi> then to have <hi>Saints,</hi> and ſuch as <hi>walk with God,</hi> and <hi>God with them,</hi> to adminiſter <hi>judgement</hi> and <hi>juſtice</hi> according to <hi>thoſe perfect laws?</hi> And if the Laws be <hi>perfect,</hi> and ſuch as ad<g ref="char:EOLhyphen"/>miniſter them be <hi>Saints</hi> by <hi>calling,</hi> and have a promiſe of <hi>di<g ref="char:EOLhyphen"/>vine aſſiſtance,</hi> how can it but be <hi>more ſafe,</hi> then to embrace <hi>im<g ref="char:EOLhyphen"/>perfect</hi> and <hi>undurable</hi> Laws, ſuch as <hi>ſome make,</hi> and <hi>others null, at pleaſure,</hi> according to the <hi>fancies</hi> and <hi>humours</hi> of thoſe in <hi>preſent Power</hi> and <hi>Authority,</hi> as daily experience teacheth; as alſo, to have ſuch to execute thoſe Laws, as have <hi>not the like pro<g ref="char:EOLhyphen"/>miſe of divine aſſiſtance.</hi>
+            </p>
+            <p>Beſides, the <hi>Experiences</hi> of <hi>many Ages</hi> do ſhew, that the <hi>want</hi> of the <hi>laws of God,</hi> and <hi>faithful Adminiſtrators,</hi> hath hi<g ref="char:EOLhyphen"/>therto been the <hi>ruine</hi> of all the <hi>States</hi> and <hi>Governments</hi> in thoſe <hi>four Monarchies,</hi> and will ſhortly be their <hi>eternal deſolation. Dan.</hi> 2. 44. and 7. 26.</p>
+            <p>Again, that ſaying of <hi>Moſes,</hi> Deut. 4. 5. is alſo well worthy their <hi>ſerious contemplation;</hi> where ſpeaking to the <hi>then-peculiar people of God,</hi> touching the <hi>excellencie</hi> of the Law of God, <hi>their King,</hi> which he had <hi>received,</hi> to <hi>adminiſter</hi> unto them, ſaith, <hi>Behold, I have taught you ſtatutes and judgements, even as the Lord my God commanded me that ye ſhould do ſo in the land whi<g ref="char:EOLhyphen"/>ther ye go to poſſeſs it. Keep therefore and do them: for this is your w<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>dom and your underſtanding in the ſight of the Nations, which ſhall hear thoſe ſtatutes, and ſay, Surely this great Nation is a wiſe and underſtanding people. For what Nation is there ſo great, that hath God ſo nigh unto them, as the Lord our God is, in all things that
+<pb n="24" facs="tcp:167957:15"/> we call upon him for? And what nation is there ſo great, that hath ſtatutes and judgements ſo righteous, as all this Law which I ſet be<g ref="char:EOLhyphen"/>fore you this day?</hi>
+            </p>
+            <p>I ſhall now conclude with Mr. <hi>Owen</hi>'s expreſſions in p. 39. of his Sermon upon <hi>H<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b.</hi> 12. 27. <q>O that it were the will of God to put an end to all that <hi>pretended</hi> holineſs, <hi>hypocritical</hi> humiliation, <hi>ſelf-intereſted</hi> Religion, that have been among us! whereby we have <hi>ſlattered</hi> God with our <hi>lips,</hi> whilſt our <hi>hearts</hi> have been <hi>far from him.</hi> O that it might ſuffice, that we have had in our <hi>Parliament,</hi> and among our <hi>Miniſters,</hi> ſo <hi>much</hi> of the <hi>form,</hi> and ſo <hi>little</hi> of the <hi>power</hi> of Godlineſs; that we have called <hi>world Chriſt,</hi> and <hi>luſt Chriſt,</hi> and <hi>ſelf Chriſt;</hi> working <hi>indeed</hi> for <hi>them,</hi> when we <hi>pretended</hi> all for <hi>Chriſt.</hi> O that in you might appear the <hi>Reality</hi> of the <hi>king<g ref="char:EOLhyphen"/>dom of the Lord Jeſus,</hi> which hath been ſo long <hi>pretended</hi> by others; that <hi>ſound righteouſneſs,</hi> not a <hi>Phariſaical, rigid, ſuper<g ref="char:EOLhyphen"/>ſtitious affectation,</hi> nor a <hi>careleſs belief</hi> and <hi>comportment,</hi> the iſſue of <hi>novel fancies,</hi> might be found upon your ſpirits; that we may be thought meet to rejoyce with the Lord <hi>in his kingdom.</hi>
+               </q>
+            </p>
+            <p>Pſal. 107. 43. <hi>Whoſo is wiſe, will ponder theſe things, and they ſhall underſtand the loving kindneſs of the Lord.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
